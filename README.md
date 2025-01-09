@@ -10,8 +10,10 @@ Hy vọng bạn sẽ tìm thấy những dự án thú vị và hữu ích trên
 
 ![ryunguyen github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devryunguyen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
-<a href="https://github.com/devryunguyen/project-01-ui-keyspacevn.git">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=UI-WEB-KeyspaceVn&theme=merko" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=anuraghazra" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=anuraghazra&layout=compact&langs_count=8&card_width=320" />
 </a>
 
