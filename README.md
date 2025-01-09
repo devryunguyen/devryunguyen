@@ -12,6 +12,6 @@ Hy vọng bạn sẽ tìm thấy những dự án thú vị và hữu ích trên
 
 <a href="https://github.com/devryunguyen/project-01-ui-keyspacevn.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=ASCII-generator&theme=merko" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=vietnh1009&repo=UI-WEB-KeyspaceVn&theme=merko" />
 </a>
 
