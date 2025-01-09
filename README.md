@@ -6,9 +6,7 @@ Hiện tại, tôi là sinh viên năm 4 ngành Công nghệ Thông tin tại Tr
 Hy vọng bạn sẽ tìm thấy những dự án thú vị và hữu ích trên trang GitHub của tôi!<br>
 ## 📫 How to reach me: 
 
-[[LinkedIn]](https://www.linkedin.com/in/devryunguyen/) [[GitHub]](https://github.com/devryunguyen/) [[Facebook]](https://www.facebook.com/asinz.truong/)
-
-
+[[LinkedIn]](https://www.linkedin.com/in/devryunguyen/)[[Facebook]](https://www.facebook.com/asinz.truong/)
 
 ![Viet's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vietnh1009&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
