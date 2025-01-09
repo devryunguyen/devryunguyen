@@ -1,5 +1,9 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Ryu Nguyen. I am an M.Sc. in Computer Science, majoring in Artificial Intelligence and Robotics. I am interested in the following topics: Deep Learning in NLP and Computer Vision. Reinforcement Learning.<br>
+Chào bạn, tôi là Ryu Nguyễn (tên thật là Nguyễn Nhựt Trường). Đây là trang GitHub cá nhân của tôi, nơi tôi lưu trữ các dự án phần mềm và công việc sáng tạo mà tôi đã thực hiện trong suốt quá trình học tập và phát triển nghề nghiệp.
+
+Hiện tại, tôi là sinh viên năm 4 ngành Công nghệ Thông tin tại Trường Đại học Tây Đô, Cần Thơ. Lĩnh vực tôi đam mê là UI/UX Design, và tôi đang cố gắng hoàn thiện kỹ năng của mình để tạo ra những sản phẩm mang lại trải nghiệm người dùng tối ưu.
+
+Hy vọng bạn sẽ tìm thấy những dự án thú vị và hữu ích trên trang GitHub của tôi!<br>
 ## 📫 How to reach me: 
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/vietnguyen-tum/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/vietnh1009/) [![Youtube](https://github.com/vietnh1009/introduction/blob/main/Youtube.png) Youtube](https://www.youtube.com/channel/UC66_4puPl1OFS3YAeZ7tRdw)
