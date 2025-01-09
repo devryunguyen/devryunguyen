@@ -8,7 +8,7 @@ Hy vọng bạn sẽ tìm thấy những dự án thú vị và hữu ích trên
 
 [[LinkedIn]](https://www.linkedin.com/in/devryunguyen/)  [[Facebook]](https://www.facebook.com/asinz.truong/)
 
-![ryunguyen github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devryunguyen&show_icons=true&theme=radical&hide=contribs,prs,issues)
+![ryunguyen github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=devryunguyen&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/devryunguyen/project-01-ui-keyspacevn.git">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
