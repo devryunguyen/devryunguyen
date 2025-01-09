@@ -6,7 +6,7 @@ Hiện tại, tôi là sinh viên năm 4 ngành Công nghệ Thông tin tại Tr
 Hy vọng bạn sẽ tìm thấy những dự án thú vị và hữu ích trên trang GitHub của tôi!<br>
 ## 📫 How to reach me: 
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devryunguyen/) [![GitHub](https://i.stack.imgur.com/tskMh.png)GitHub](https://github.com/devryunguyen/)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/devryunguyen/) [![GitHub]([https://i.stack.imgur.com/tskMh.png](https://www.flaticon.com/free-icon/github-logo_25231))GitHub](https://github.com/devryunguyen/)
 
 
 
